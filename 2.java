@@ -1,4 +1,3 @@
 India
 Pakistan
 Australia
-England
